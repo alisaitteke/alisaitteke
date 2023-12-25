@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Lasthome**
 
-- 📝 I regularly write articles on [alisait.com](alisait.com)
+- 📝 I regularly write articles on [alisait.com](https://alisait.com)
 
 - 💬 Ask me about **vue, d3, elasticsearch, node, nuxt**
 

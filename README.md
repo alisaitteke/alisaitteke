@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A passionate fullstack developer from London</h3>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=alisaitteke" alt="alisaitteke" /> </p>
-
 - 🔭 I’m currently working on **Lasthome**
 
 - 📝 I regularly write articles on [alisait.com](https://alisait.com)

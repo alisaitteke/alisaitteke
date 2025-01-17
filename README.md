@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 
-- 🔭 I’m currently working on **Lasthome**
-
 - 📝 I regularly write articles on [alisait.com](https://alisait.com)
 
 - 💬 Ask me about **javascript, vue, d3, flutter, elasticsearch, node, nuxtjs**

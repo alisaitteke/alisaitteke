@@ -2,7 +2,7 @@
 
 - 📝 I regularly write articles on [alisait.com](https://alisait.com)
 
-- 💬 Ask me about **javascript, vue, d3, flutter, elasticsearch, node, nuxtjs**
+- 💬 Ask me about **JavaScript, Vue, D3, Flutter, ElasticSearch, Node, NuxtJS**
 
 - 📫 How to reach me **alisaitteke@gmail.com**
 
